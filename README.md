@@ -1,4 +1,5 @@
 Link: https://wewantwast.netlify.app/
+codesandbox link: https://codesandbox.io/p/github/dennismoha/wewantwaste/main?import=true
 
 ## My Approach
 
