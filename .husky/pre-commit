@@ -1,1 +1,1 @@
-npm --prefix . run lint && npm --prefix . run prettier:check && npm --prefix  run build
+npm --prefix . run lint && npm --prefix . run prettier:check && npm --prefix . run build

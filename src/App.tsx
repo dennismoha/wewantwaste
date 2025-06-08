@@ -1,12 +1,7 @@
-import './App.css';
-import Navbar from '@components/navbar';
+import SkipSizeSelector from './pages/home';
 
 function App() {
-  return (
-    <>
-      <Navbar />
-    </>
-  );
+  return <SkipSizeSelector />;
 }
 
 export default App;

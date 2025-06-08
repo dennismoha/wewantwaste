@@ -6,6 +6,10 @@ import tailwindcss from '@tailwindcss/vite';
 export default defineConfig({
   plugins: [react(), tailwindcss()],
   resolve: {
-    alias: [{ find: '@components', replacement: '/src/components' }]
+    alias: [
+      { find: '@components', replacement: '/src/components' },
+      { find: '@types', replacement: '/src/types' },
+      { find: '@data', replacement: '/src/data' }
+    ]
   }
 });
